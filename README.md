@@ -32,11 +32,11 @@ A simple and interactive TO-DO List web application built using HTML, CSS, and J
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Tulaseeram-panga/ToDoList.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd todo-list
+   cd ToDoList
    ```
 3. Open `index.html` in your browser.
 
