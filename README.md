@@ -49,7 +49,7 @@ A simple and interactive TO-DO List web application built using HTML, CSS, and J
 
 ## Screenshots
 
-
+![To-Do List Screenshot](todolist.png)
 
 ## Future Enhancements
 
